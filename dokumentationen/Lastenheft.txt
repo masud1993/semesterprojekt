@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Anfordrung µ
 
 
@@ -8,3 +9,6 @@ Optimale Zugriffszeiten
 Sichere Fahrzeugunterbringung
 Schutz vor Diebstahl und Beschädigung
 Sicherer Zugang zur Parkanlage ohne enge Rampen oder dunkle Zugänge
+=======
+﻿ifdjokk oskosdk
+>>>>>>> 6d344ab970806c2f5bba6925d40c9932a5db712e
