@@ -32,6 +32,7 @@ Das System muss Notfallsmasnahmen binhalten.
 Das system muss die parkhausbetreiber die möglichkeit bieten die parktarife zu bestimmen.
 Das system sollte informationen wie einnahemen und statistiken zu stosszeiten zu verwalten und darstellen zukönnen
 Das system muss den kunden eindutig identiefiziernbzw.zuordenen.
+Das system muss in java realisierbar sein.
 //
 
 
