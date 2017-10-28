@@ -1,3 +1,6 @@
+/**
+ * @author mtaher2s , jachou2s , oemran2s
+ */
 
 import static org.junit.Assert.*;
 import org.junit.*;
@@ -12,6 +15,6 @@ public class preisBerechnenTester {
 
 	@Test
 	public void test_1() {
-		assertEquals(500, p1.getPreis(1)); // für ein tag
+		assertEquals(500, p1.getPreis(1)); // fÃ¼r ein tag
 	}
 }
