@@ -1,10 +1,40 @@
-Funktionale:
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿Anfordrung µ
 
+
+Muss ...
+
+
+Optimale Zugriffszeiten
+Sichere Fahrzeugunterbringung
+Schutz vor Diebstahl und Beschädigung
+Sicherer Zugang zur Parkanlage ohne enge Rampen oder dunkle Zugänge
+
+
+Funktionale
 Das System muss in der lage sein die kunden im voraus über die prakgebühren zu informieren.
 Das System muss ein reibungslosen ablauf  der prozesse des Einparken bzw. ausparken für die kunden des parkhaus gewahrleisten können.
 Das System muss freiplätze verwalten können.
 Das schranken system muss in der lage park tickts auszuhändigen.
 Die Machnismen des Schrankensytems müssen einwandfreit funktioneiern.
 Das erstellten parktickts müssen die  informationen wie  anfang des parkzeit , in welchen ebene, reihe gegbenfalls das auto sich befindet korrekt eintragen.
+Das schranken 
+
+
+//
+Das System muss in der lage sein die kunden im voraus über die prakgebühren zu informieren.
+Das System muss ein reibungslosen ablauf  der prozesse des Einparken bzw. ausparken für die kunden des parkhaus gewahrleisten können.
+Das system muss in der lage sein parkgebühren zu errechenen.
+Das system muss die kunden ein zahlungs möglichkeit für die erhobnen gebühren bieten.
+Das system muss für jeden ausfahrenden kunden sicherstellen das die parkgebüren beglichen worden sind.
+Das System muss Notfallsmasnahmen binhalten.
+Das system muss die parkhausbetreiber die möglichkeit bieten die parktarife zu bestimmen.
+Das system sollte informationen wie einnahemen und statistiken zu stosszeiten zu verwalten und darstellen zukönnen
+Das system muss den kunden eindutig identiefiziernbzw.zuordenen.
+//
+
+
+
 
 
