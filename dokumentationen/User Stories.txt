@@ -1,1 +1,11 @@
-
+1. Als Client möchte ich den zu zahlende Betrag per Handy bezahlen können, um ohne  mein Auto zuferlassen.
+2. Als Client möchte ich die Möglichkeit zum Parkplatzreservierung haben, um garntiert einen Parkpalz erhalten zu können.
+3. Als Client möchte ich ein Hinweisschild mit aktueller Anzahl freier stellplätze sehen, um Zeit für langweilige Suche nach 
+   verfügbaren Parkplatz sparen zu können.
+4. Als Client benötige ich die Möglichkeit, wo ich die Rechnung bezahlen kann, um den gefangene stellplatz bezahlen zu können.
+5. Als Parkplatzinhaber benötige ich einen Überblick über die Einkünfte, um diese in Steurerklärung abgeben zu können.
+6. Als Parkplatzinhaber möchte ich schnelle und zuverlässige Automatisierte Schranke haben, um Zeitverlust und kosten vermeiden zu können.
+7. Als Parkplatzinhaber eine vollautomatische Berechnung der Parkgebühr, um Zeit umd Kosten sparen zu können.
+8. Als Manager benötige ich ständig überblick über freie platze, um diese im überfüllte Zeiten vernünftig verwalten zu können.
+9. Als systemadminstrator möchte ich die Möglichkeit zum Updat haben, um die Preisen Aktualisieren zu können.
+10. Als Rettungszuständiger möchte ich einen reibungslos und schnelle Einlass zum Parkplatz, um  Notfälle beseitigen zu können. 
