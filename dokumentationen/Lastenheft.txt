@@ -1,18 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-﻿Anfordrung µ
+Funktionale:
 
-
-Muss ...
-
-
-Optimale Zugriffszeiten
-Sichere Fahrzeugunterbringung
-Schutz vor Diebstahl und Beschädigung
-Sicherer Zugang zur Parkanlage ohne enge Rampen oder dunkle Zugänge
-
-
-Funktionale
 Das System muss in der lage sein die kunden im voraus über die prakgebühren zu informieren.
 Das System muss ein reibungslosen ablauf  der prozesse des Einparken bzw. ausparken für die kunden des parkhaus gewahrleisten können.
 Das System muss freiplätze verwalten können.
