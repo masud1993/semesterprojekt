@@ -1,11 +1,114 @@
-Das System muss in der lage sein die kunden im voraus über die prakgebühren zu informieren. (Funk.)
-Das System muss ein reibungslosen ablauf  der prozesse des Einparken bzw. ausparken für die kunden des parkhaus gewahrleisten können (Funk.)
-Das System muss in der lage sein parkgebühren,parkzeiten  zu errechenen.(Funk.)
-Das System muss die kunden eine zahlungs möglichkeit für die erhobnen gebühren bieten.(Funk.)
-Das System muss für jeden ausfahrenden kunden sicherstellen das die parkgebüren beglichen worden sind.(Funk.)
-Das System sollte in notfällen notfalls massnahmen einleiten können.(Rahm.)
-Das System muss die parkhausbetreiber die möglichkeit bieten die parktarife zu bestimmen.(nicht Funk.)
-Das System sollte informationen wie einnahemen und statistiken zu stosszeiten  verwalten und darstellen können.(nicht Funk.)
-Das System muss den kunden eindutig identiefiziern bzw.zuordenen(Funk.)
-Das System muss in Java realisierbar sein.(Tech.)
-Das System muss freiplätze verwalten können.(Funk.)
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿Anfordrung µ
+
+
+Muss ...
+
+
+Optimale Zugriffszeiten
+Sichere Fahrzeugunterbringung
+Schutz vor Diebstahl und Beschädigung
+Sicherer Zugang zur Parkanlage ohne enge Rampen oder dunkle Zugänge
+
+
+Funktionale
+Das System muss in der lage sein die kunden im voraus über die prakgebühren zu informieren.
+Das System muss ein reibungslosen ablauf  der prozesse des Einparken bzw. ausparken für die kunden des parkhaus gewahrleisten können.
+Das System muss freiplätze verwalten können.
+Das schranken system muss in der lage park tickts auszuhändigen.
+Die Machnismen des Schrankensytems müssen einwandfreit funktioneiern.
+Das erstellten parktickts müssen die  informationen wie  anfang des parkzeit , in welchen ebene, reihe gegbenfalls das auto sich befindet korrekt eintragen.
+Das schranken 
+
+
+//
+Das System muss in der lage sein die kunden im voraus über die prakgebühren zu informieren.
+Das System muss ein reibungslosen ablauf  der prozesse des Einparken bzw. ausparken für die kunden des parkhaus gewahrleisten können.(funk)
+Das system muss in der lage sein parkgebühren,parkzeiten  zu errechenen.(funk)
+Das system muss die kunden eine zahlungs möglichkeit für die erhobnen gebühren bieten.(funk)
+Das system muss für jeden ausfahrenden kunden sicherstellen das die parkgebüren beglichen worden sind.(funk)
+Das System sollte in notfällen notfalls massnahmen einleiten können.(rahm)
+Das system muss die parkhausbetreiber die möglichkeit bieten die parktarife zu bestimmen.(nicht funk)
+Das system sollte informationen wie einnahemen und statistiken zu stosszeiten  verwalten und darstellen können.(nicht funk)
+Das system muss den kunden eindutig identiefiziern bzw.zuordenen(funk)
+Das system muss in java realisierbar sein.(tech)
+Das System muss freiplätze verwalten können.(funk)
+
+//
+
+
+
+steakholder
+
+inter:
+
+1.parkhauseigentümer(passiv)
+2.Parkhausmanager(aktiv)
+3.systemadminstrator(aktiv)
+
+
+
+
+
+Extern:
+1.Kunden_autofahrer(aktiv)
+2.Staat(passiv)
+3.Geselschaft(passiv)
+4.Entwickler(aktiv)
+
+
+
+Nutzendersystemkomponenten
+
+1.parkhauseigentümer
+
+-kostenersparniss durch digitaliesirung
+-vereinfachung der geschaftsabwicklung so ermöglichung von fern steurung und verwaltung.
+
+2.systemadminstrator
+-Dynamische steurung der daten
+-schnelles und einfaches zugriff auf daten da dies zentral geschpeichert werden.(effiziens erhoung)
+
+3.Kunden_autofahrer
+-einzusparen der spritkosten die aufgrund der suche von freien  parkplätze entsanden sind.
+-zeit ersparniss durch besser übersicht des parkgescheniss.
+
+4.Staat
+-steur einnahmen.
+-besser verwaltung von frein parkplätze.
+
+5.Geselschaft
+-die co2 werte werden vermindet so das die umwelt besser geschutz werden kann.
+-fortbildung/Umschulung von ehmaligen mitarbeiter die in konventionellen parkhaüsen tätig waren.
+- ein steigrung des allgeimenglücksilichkeits empfinden durch vermeidung von stress faktoren wie staus,verspätungen,vermeidbare zeitverlussete
+
+6.Entwickler
+-neue geld einnahme quellen durch neue jobs persepektive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
