@@ -1,0 +1,44 @@
+Steakholder
+
+Inter:
+
+1.parkhauseigentümer(passiv)
+2.Parkhausmanager(aktiv)
+3.systemadminstrator(aktiv)
+
+
+
+Extern:
+1.Kunden_autofahrer(aktiv)
+2.Staat(passiv)
+3.Geselschaft(passiv)
+4.Entwickler(aktiv)
+
+
+
+Nutzendersystemkomponenten
+
+1.parkhauseigentümer
+
+-kostenersparniss durch digitaliesirung
+-vereinfachung der Geschaftsabwicklung sowie ermöglichung von fern Steurung und Verwaltung.
+
+2.Systemadminstrator
+-Dynamische Steurung der Daten
+-Dchnelles und einfaches Zugriff auf Daten da dies zentral geschpeichert werden.(effiziens Erhoung)
+
+3.Kunden/Autofahrer
+-einsparen der Spritkosten die aufgrund der Suche von freien Parkplätze entsanden sind.
+-zeit ersparniss durch besser übersicht des Parkgescheniss.
+
+4.Staat
+-steur einnahmen.
+-besser verwaltung von frein parkplätze.
+
+5.Geselschaft
+-Die co2 werte werden vermindet so das die umwelt besser geschutz werden kann.
+-fortbildung/Umschulung von ehmaligen mitarbeiter die in konventionellen Parkhaüsen tätig waren.
+- ein steigrung des allgeimenglücksilichkeits empfinden durch vermeidung von stress faktoren wie staus,verspätungen,vermeidbare zeitverlussete
+
+6.Entwickler
+-neue geld einnahme quellen durch neue Jobs persepektiven.
