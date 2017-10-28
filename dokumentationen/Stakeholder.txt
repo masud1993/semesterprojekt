@@ -1,6 +1,6 @@
 Steakholder
 
-Inter:
+Intern:
 
 1.parkhauseigentümer(passiv)
 2.Parkhausmanager(aktiv)
