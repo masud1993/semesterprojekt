@@ -8,7 +8,7 @@ Systemadminstrator (aktiv)
 
 Extern:
 Kunden- Autofahrer (aktiv)
-2.Staat (passiv)
+Staat (passiv)
 Geselschaft (passiv)
 Entwickler (aktiv)
 
